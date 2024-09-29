@@ -1,17 +1,19 @@
-### README
+# README
 
 Clone it.
 In <project-folder>
-npm run dev 
-&
-node server.js
+### npm run dev 
+
+AND
+
+### node server.js
 
 All done., Happpy Coding :)
 
 
-I am currently working on this, My aim to add more functionality like
+## I am currently working on this, My aim to add more functionality like
 
-1. Authentication : The user must be authenticated, like he/she do have authorization to access any meeting room.
+1. Authentication :The user must be authenticated, like he/she do have authorization to access any meeting room.
 
 2. Permission : Meeting Organizer has the power to accept or reject the incoming user into the meeting.
 
