@@ -1,11 +1,12 @@
 # README
 
 Clone it.
-In <project-folder>
-### npm run dev 
 
-AND
+Inside project-folder terminal
+## For Frontend
+### npm run dev
 
+## For Backend
 ### node server.js
 
 All done., Happpy Coding :)
@@ -37,4 +38,3 @@ All done., Happpy Coding :)
 
 There are Some more features I would like to add. 
 Feel free to contribue.
-F
